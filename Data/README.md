@@ -18,7 +18,7 @@ Les données proviennent de sites officiels et de portails open-data tels que : 
   
 - Nettoyage, prétraitement, exploration et visualisation → [Notebooks](https://github.com/MagaliTrueAnalytics/DataCitoyen-QC-Canada/tree/main/Notebooks)  
 
-- Créer des dashboards interactifs (Power BI) → [Dashobards](https://github.com/MagaliTrueAnalytics/DataCitoyen-QC-Canada/tree/main/Dashboards)
+- Créer des dashboards interactifs (Power BI) → [Dashboards](https://github.com/MagaliTrueAnalytics/DataCitoyen-QC-Canada/tree/main/Dashboards)
 
 - Publications et rapports citoyens → [Rapports](https://github.com/MagaliTrueAnalytics/DataCitoyen-QC-Canada/tree/main/Rapports)
 
